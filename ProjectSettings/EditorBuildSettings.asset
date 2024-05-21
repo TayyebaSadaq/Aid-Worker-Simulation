@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: 477fa493a6bbe4b4aabe8ca1867cad25
+  - enabled: 1
+    path: Assets/Scenes/Language/Language.unity
+    guid: d034fd6f38e465d448dae84ff373cc64
+  - enabled: 1
+    path: Assets/Scenes/Emotions/Emotions.unity
+    guid: 6c691aa1d45621a45829905d8a1d3d6c
   m_configObjects: {}
