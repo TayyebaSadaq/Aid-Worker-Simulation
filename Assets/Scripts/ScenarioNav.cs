@@ -11,11 +11,11 @@ public class ScenarioNav : MonoBehaviour
     }
     public void languagenav()
     {
-        SceneManager.LoadScene("Language"); // load main menu
+        SceneManager.LoadScene("Language"); 
     }
     public void emotionsnav()
     {
-        SceneManager.LoadScene("Emotions"); // load main menu
+        SceneManager.LoadScene("Emotions");
     }
 
 }
