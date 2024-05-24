@@ -7,15 +7,22 @@ public class LaguageChoice : MonoBehaviour
 {
     public void visualAid()
     {
-        SceneManager.LoadScene("VisualAid"); 
+        SceneManager.LoadScene("VisualAid");
     }
     public void translatorApp()
     {
-        SceneManager.LoadScene("TranslatorApp"); 
+        SceneManager.LoadScene("TranslatorApp");
     }
-    public void findTranslator()
+    public void restart()
     {
-        SceneManager.LoadScene("FindTranslator"); 
+        SceneManager.LoadScene("Language");
     }
-    
+    public void differentScenario()
+    {
+        SceneManager.LoadScene("ChooseScenario");
+    }
+    public void mainMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
 }

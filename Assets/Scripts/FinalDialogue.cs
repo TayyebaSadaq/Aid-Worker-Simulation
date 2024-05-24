@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class Dialogue : MonoBehaviour
+public class FinalDialogue : MonoBehaviour
 {
     public TextMeshProUGUI textComponent;
     public string[] lines;
     public float textSpeed;
-    public GameObject nextpage;
+    public GameObject info;
+    public GameObject options;
 
     private int index;
 
@@ -16,7 +17,8 @@ public class Dialogue : MonoBehaviour
     void Start()
     {
         textComponent.text = string.Empty;
-        nextpage.SetActive(false);
+        info.SetActive(false);
+        options.SetActive(false);
         StartDialogue(); // Auto-start dialogue when the scene loads
     }
 
@@ -62,7 +64,8 @@ public class Dialogue : MonoBehaviour
         else
         {
             gameObject.SetActive(false); // Hide the dialogue panel or perform another action when all lines are done
-            nextpage.SetActive(true);
+            info.SetActive(true);
+
         }
     }
 }
