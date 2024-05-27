@@ -809,7 +809,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.0000038147}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &563886281
@@ -2791,7 +2791,7 @@ MonoBehaviour:
   textComponent: {fileID: 1086599297}
   lines:
   - 'Aid Worker: (Smiling warmly) Hello, I''m here to help you. Are you okay?'
-  - 'Refugee: (Visibly upser and crying) I... I don''t know what to do. I''m scared..'
+  - 'Refugee: (Visibly upset and crying) I... I don''t know what to do. I''m scared..'
   - 'Aid Worker: It''s alright, you''re safe here. Can you tell me what''s wrong?'
   - 'Refugee: (Shaking head slightly) I miss my family, and I''m so worried about
     them. I don''t know anyone here..'
