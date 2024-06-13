@@ -17,9 +17,13 @@ The reuslt is a unity application that has currently 2 simulated scenarios:
 Complete with a pause menu, choices to restart, resume and return to the menu and within the two main scenarios are 2 additional choices for the user on how to handle the challenges that they're facing.
 
 ## 📋 Pre-Requisites
-You'll need to simply download the repository to your machine, open the build folder and run the application.
 For the source code, you'll need:
 - unity Installed
 - Visual Studio
 - Unity Editor 2022.3.29f1
- 
+
+If you want to run the program as it is then:
+1. download the repository to your machine
+2. unzip the build folder
+3. run Aid Worker Simulation.exe
+
