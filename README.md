@@ -1,4 +1,5 @@
-## 🙋 Aid Worker Simulation
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Aid-Worker%20Simulation&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+
 This is a collaboration project from our second year - second semester in Team Project. The task was to "create a simulation to understand the difficulties an aid worker may have when working with refugees."
 
 ## 💬 Text Based Simulation
